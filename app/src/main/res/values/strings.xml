@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TaskMate</string>
+    <string name="no_tasks_yet_add_a_task_to_get_started">No tasks yet. Add a task to get started!</string>
+    <string name="no_tasks_illustration">No tasks illustration</string>
+    <string name="title_add_task">Add Task</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_due_date">Due Date</string>
+    <string name="label_completed">Completed</string>
+    <string name="action_save">Save</string>
+    <string name="select_due_date">Select Due Date</string>
+</resources>

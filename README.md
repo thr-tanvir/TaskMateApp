@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TaskMate
 
 A simple task management application for Android.

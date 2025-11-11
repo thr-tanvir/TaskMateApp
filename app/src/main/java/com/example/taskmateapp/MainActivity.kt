@@ -61,6 +61,8 @@ class MainActivity : AppCompatActivity(), TaskAdapter.TaskItemListener {
             startActivity(intent)
         }
 
+
+
         setupSwipeToDelete()
     }
 

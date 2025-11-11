@@ -10,18 +10,18 @@ A simple task management application for Android.
 *   Search for tasks.
 *   Undo task deletion.
 
-## Screenshots
+## TaskMate Visual
 
-|                             Open TaskMate                             |                               TaskMate Start                               |                            Add Task                             |
-|:---------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------:|
+|                                                           Open TaskMate                                                            |                                                           TaskMate Start                                                           |                                                           Add Task                                                           |
+|:----------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
 | <img src="https://github.com/thr-tanvir/TaskMateApp/blob/main/app/src/main/res/drawable/open_task_mate.png?raw=true" width="250"/> | <img src="https://github.com/thr-tanvir/TaskMateApp/blob/main/app/src/main/res/drawable/taskmate_start.png?raw=true" width="250"/> | <img src="https://github.com/thr-tanvir/TaskMateApp/blob/main/app/src/main/res/drawable/add_task.png?raw=true" width="250"/> |
 
-|                            Save Task                             |                            View Task                             |                            Sort Task                             |
-|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
+|                                                           Save Task                                                           |                                                           View Task                                                           |                                                           Sort Task                                                           |
+|:-----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
 | <img src="https://github.com/thr-tanvir/TaskMateApp/blob/main/app/src/main/res/drawable/save_task.png?raw=true" width="250"/> | <img src="https://github.com/thr-tanvir/TaskMateApp/blob/main/app/src/main/res/drawable/view_task.png?raw=true" width="250"/> | <img src="https://github.com/thr-tanvir/TaskMateApp/blob/main/app/src/main/res/drawable/sort_task.png?raw=true" width="250"/> |
 
-|                            Search Task                             |                            Delete Task                             |
-|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
+|                                                           Search Task                                                           |                                                           Delete Task                                                           |
+|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
 | <img src="https://github.com/thr-tanvir/TaskMateApp/blob/main/app/src/main/res/drawable/search_task.png?raw=true" width="250"/> | <img src="https://github.com/thr-tanvir/TaskMateApp/blob/main/app/src/main/res/drawable/delete_task.png?raw=true" width="250"/> |
 
 ## Video Walkthrough

@@ -10,6 +10,24 @@ A simple task management application for Android.
 *   Search for tasks.
 *   Undo task deletion.
 
+## Screenshots
+
+|                             Open TaskMate                             |                               TaskMate Start                               |                            Add Task                             |
+|:---------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------:|
+| <img src="app/src/main/res/drawable/open_task_mate.png" width="250"/> | <img src="app/src/main/res/dra<br/>wable/taskmate_start.png" width="250"/> | <img src="app/src/main/res/drawable/add_task.png" width="250"/> |
+
+|                            Save Task                             |                            View Task                             |                            Sort Task                             |
+|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
+| <img src="app/src/main/res/drawable/save_task.png" width="250"/> | <img src="app/src/main/res/drawable/view_task.png" width="250"/> | <img src="app/src/main/res/drawable/sort_task.png" width="250"/> |
+
+|                            Search Task                             |                            Delete Task                             |
+|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
+| <img src="app/src/main/res/drawable/search_task.png" width="250"/> | <img src="app/src/main/res/drawable/delete_task.png" width="250"/> |
+
+## Video Walkthrough
+
+[Watch the video walkthrough from Drive](https://drive.google.com/drive/folders/1cM8BwFXi0u40ptN4SqWjHZbl6cNRwReh?usp=drive_link)
+
 ## How to Build and Run
 
 ### Prerequisites
